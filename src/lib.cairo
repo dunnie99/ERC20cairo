@@ -1,0 +1,1 @@
+mod myERC20token;
